@@ -1,0 +1,7 @@
+C:\Users\vijayalakshmi.surend\source\repos\CRUDAPPDOTNETCORE\obj\Debug\net6.0\CRUDAPPDOTNETCORE.csproj.AssemblyReference.cache
+C:\Users\vijayalakshmi.surend\source\repos\CRUDAPPDOTNETCORE\obj\Debug\net6.0\CRUDAPPDOTNETCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijayalakshmi.surend\source\repos\CRUDAPPDOTNETCORE\obj\Debug\net6.0\CRUDAPPDOTNETCORE.AssemblyInfoInputs.cache
+C:\Users\vijayalakshmi.surend\source\repos\CRUDAPPDOTNETCORE\obj\Debug\net6.0\CRUDAPPDOTNETCORE.AssemblyInfo.cs
+C:\Users\vijayalakshmi.surend\source\repos\CRUDAPPDOTNETCORE\obj\Debug\net6.0\CRUDAPPDOTNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\vijayalakshmi.surend\source\repos\CRUDAPPDOTNETCORE\obj\Debug\net6.0\CRUDAPPDOTNETCORE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vijayalakshmi.surend\source\repos\CRUDAPPDOTNETCORE\obj\Debug\net6.0\CRUDAPPDOTNETCORE.MvcApplicationPartsAssemblyInfo.cache
